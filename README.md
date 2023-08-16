@@ -5,12 +5,12 @@
 ##Привет! Я инженер по тестированию, сейчас я нахожусь в поиске работы, и буду рада сотрудничеству
 В данном репозитории представена некоторая часть составленых мной тестовых артефактов.
 
-Инструменты:
-Postman
-SoapUI
-SQL
-Python
-![Jira](https://github.com/mikarina22/mikarina22/blob/main/assets/jirasoftware.svg)
+### Инструменты:
+-Postman
+-SoapUI
+-SQL
+-Python
+-Jira
 
 
 
