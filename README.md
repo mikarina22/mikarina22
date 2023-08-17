@@ -25,7 +25,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bulka__love/)
 
 ### Проекты
-(ссылка, проект в разработке) - Тест-кейсы <br />
-(ссылка, проект в разработке) - Автотесты <br />
-(https://github.com/mikarina22/magic_ball_bot) - Бот для телеграма "Магический шар" <br />
-(https://github.com/mikarina22/django-blog) - Опыт разработки серверной части блога на Django <br />
+Чек-листы - https://github.com/mikarina22/check-list <br />
+Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
+Автотесты - (здесь будет ссылка, проекты в разработке)  <br />
+Бот для телеграма "Магический шар"- https://github.com/mikarina22/magic_ball_bot  <br />
+Эксперимент разработки серверной части блога на Django - https://github.com/mikarina22/django-blog  <br />
