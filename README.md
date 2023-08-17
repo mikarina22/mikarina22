@@ -2,7 +2,7 @@
 [![Header](https://github.com/mikarina22/mikarina22/blob/main/assets/generated-text-to-image.jpg)](https://www.linkedin.com/in/karina-mikhailova-195448254/)
 
 ### Обо мне:
-Привет! Я инженер по тестированию, сейчас я нахожусь в поиске работы, и буду рада сотрудничеству
+Привет! Я инженер по тестированию, сейчас я нахожусь в поиске работы, и буду рада сотрудничеству. <br />
 В данном профиле представена некоторая часть моих проектов.
 
 ### Инструменты:
@@ -23,3 +23,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mihkarina)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/karina-mikhailova-195448254/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bulka__love/)
+
+### Проекты
+(ссылка, проект в разработке) - Тест-кейсы <br />
+(ссылка, проект в разработке) - Автотесты <br />
+(https://github.com/mikarina22/magic_ball_bot) - Бот для телеграма "Магический шар" <br />
+(https://github.com/mikarina22/django-blog) - Опыт разработки серверной части блога на Django <br />
