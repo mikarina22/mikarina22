@@ -28,5 +28,6 @@
 Чек-листы - https://github.com/mikarina22/check-list <br />
 Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
 Автотесты - (здесь будет ссылка, проекты в разработке)  <br />
+Тестирование сайта hh.ru - https://github.com/mikarina22/HH-test/tree/main <br />
 Бот для телеграма "Магический шар"- https://github.com/mikarina22/magic_ball_bot  <br />
 Эксперимент разработки серверной части блога на Django - https://github.com/mikarina22/django-blog  <br />
