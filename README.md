@@ -17,13 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> Git <br />
 </div>
 
-
-### Ссылки на соцсети:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mihkarina)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/karina-mikhailova-195448254/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bulka__love/)
-
 ### Проекты
 Чек-листы - https://github.com/mikarina22/check-list <br />
 Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
@@ -31,3 +24,9 @@
 Тестирование сайта hh.ru - https://github.com/mikarina22/HH-test/tree/main <br />
 Бот для телеграма "Магический шар"- https://github.com/mikarina22/magic_ball_bot  <br />
 Эксперимент разработки серверной части блога на Django - https://github.com/mikarina22/django-blog  <br />
+
+### Ссылки на соцсети:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mihkarina)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/karina-mikhailova-195448254/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bulka__love/)
