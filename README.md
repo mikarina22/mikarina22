@@ -7,7 +7,7 @@
 
 ### Проекты
 <a href="https://github.com/mikarina22/HH-test/tree/main"> Тестирование сайта hh.ru </a>  <br />
-<a href="https://github.com/mikarina22/check-list"> Чек-лист </a>ы<br />
+<a href="https://github.com/mikarina22/check-list"> Чек-листы </a><br />
 Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
 Автотесты - (здесь будет ссылка, проекты в разработке)  <br />
 <a href="https://github.com/mikarina22/magic_ball_bot"> Бот для телеграма "Магический шар"</a> <br />
