@@ -5,6 +5,14 @@
 Привет! Я инженер по тестированию, сейчас я нахожусь в поиске работы, и буду рада сотрудничеству. <br />
 В данном профиле представена некоторая часть моих проектов.
 
+### Проекты
+<a href="https://github.com/mikarina22/HH-test/tree/main"> Тестирование сайта hh.ru </a>  <br />
+<a href="https://github.com/mikarina22/check-list"> Чек-лист </a>ы<br />
+Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
+Автотесты - (здесь будет ссылка, проекты в разработке)  <br />
+<a href="https://github.com/mikarina22/magic_ball_bot"> Бот для телеграма "Магический шар"</a> <br />
+<a href="https://github.com/mikarina22/django-blog"> Эксперимент разработки серверной части блога на Django </a> <br />
+
 ### Инструменты:
 
 <div>
@@ -17,13 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> Git <br />
 </div>
 
-### Проекты
-Чек-листы - https://github.com/mikarina22/check-list <br />
-Тест-кейсы - (здесь будет ссылка, проекты в разработке) <br />
-Автотесты - (здесь будет ссылка, проекты в разработке)  <br />
-Тестирование сайта hh.ru - https://github.com/mikarina22/HH-test/tree/main <br />
-Бот для телеграма "Магический шар"- https://github.com/mikarina22/magic_ball_bot  <br />
-Эксперимент разработки серверной части блога на Django - https://github.com/mikarina22/django-blog  <br />
 
 ### Ссылки на соцсети:
 
