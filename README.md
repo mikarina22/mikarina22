@@ -2,7 +2,7 @@
 [![Header](https://github.com/mikarina22/mikarina22/blob/main/assets/generated-text-to-image.jpg)](https://www.linkedin.com/in/karina-mikhailova-195448254/)
 
 ### Обо мне:
-Привет! Я инженер по тестированию, сейчас я нахожусь в поиске работы, и буду рада сотрудничеству. <br />
+Привет! Я инженер по тестированию. <br />
 В данном профиле представена некоторая часть моих проектов.
 
 ### Проекты
